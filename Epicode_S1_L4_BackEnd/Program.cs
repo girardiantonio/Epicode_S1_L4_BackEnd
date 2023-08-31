@@ -28,7 +28,9 @@ namespace Epicode_S1_L4_BackEnd
             do
             {
                 Console.WriteLine();
-                Console.WriteLine("Menu");
+                Console.WriteLine("=========================================");
+                Console.WriteLine("                 M E N U                 ");
+                Console.WriteLine("=========================================");
                 Console.WriteLine("1.: Login");
                 Console.WriteLine("2.: Logout");
                 Console.WriteLine("3.: Verifica ora e data di login");
